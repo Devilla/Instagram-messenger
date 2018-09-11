@@ -1,6 +1,6 @@
 # instagram-chat
 
-Instagram chat application.
+Instagram Messenger application.
 
 ![instagram-chat-gui](https://github.com/devilla/Instagram-messenger/blob/master/screenshot/screenshot.jpg?raw=true)
 

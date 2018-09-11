@@ -38,7 +38,7 @@ module.exports = new Promise((resolve, reject) => {
 
 		app.listen(app.get("port"), app.get("host"), function () {
 			resolve();
-			console.log(logSymbols.success, 'instagram chat is listening on port '+app.get('port')+'.');
+			console.log(logSymbols.success, 'Instagram Messenger is listening on port '+app.get('port')+'.');
 		});
 	});
 });
