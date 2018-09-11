@@ -1,14 +1,12 @@
 # instagram-chat
 
-[![Build Status](https://travis-ci.org/nemanjan00/instagram-chat.svg?branch=master)](https://travis-ci.org/nemanjan00/instagram-chat)
-
 Instagram chat application.
 
-![instagram-chat-gui](https://github.com/nemanjan00/instagram-chat/blob/master/screenshot/screenshot.jpg?raw=true)
+![instagram-chat-gui](https://github.com/devilla/Instagram-messenger/blob/master/screenshot/screenshot.jpg?raw=true)
 
 ## **Under development**
 
-### What works? 
+### What works?
 
  * Login
 
@@ -42,9 +40,8 @@ Instagram chat application.
 
 ## How to run
 
-Download from [here](https://github.com/nemanjan00/instagram-chat/releases)
 
-### Or from NPM
+### NPM
 
 ``` bash
 sudo yarn add global instagram-chat
@@ -64,5 +61,4 @@ instagram-chat
 
 ## Authors
 
-[Nemanja Nedeljkovic](https://github.com/nemanjan00)
-
+[Dev Yadav](https://github.com/devilla)
