@@ -1,8 +1,8 @@
-# instagram-chat
+# instagram-messenger
 
 Instagram Messenger application.
 
-![instagram-chat-gui](https://github.com/devilla/Instagram-messenger/blob/master/screenshot/screenshot.jpg?raw=true)
+![instagram-messenger-gui](https://github.com/devilla/Instagram-messenger/blob/master/screenshot/screenshot.jpg?raw=true)
 
 ## **Under development**
 
@@ -44,19 +44,19 @@ Instagram Messenger application.
 ### NPM
 
 ``` bash
-sudo yarn add global instagram-chat
+sudo yarn add global instagram-messenger
 ```
 
 #### How to run GUI
 
 ``` bash
-instagram-chat-gui
+instagram-messenger-gui
 ```
 
 #### Or run server
 
 ``` bash
-instagram-chat
+instagram-messenger
 ```
 
 ## Authors
